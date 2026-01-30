@@ -32,7 +32,7 @@ My diverse background equips me with a blend of technical expertise, management 
 
 ## 📊 Stats & Highlights
 <!-- Example: Use a dynamic GitHub stats plugin -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BastienErard&layout=compact&hide=php&theme=radical)
+![Top Languages](https://github-readme-stats.zohan.tech/api/top-langs/?username=BastienErard&layout=compact&hide=php&theme=radical)
 
 ---
 
