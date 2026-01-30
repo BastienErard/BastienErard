@@ -23,6 +23,10 @@ My diverse background equips me with a blend of technical expertise, management 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -33,6 +37,8 @@ My diverse background equips me with a blend of technical expertise, management 
 ---
 
 ## 🌟 Projects Highlights
+- **Matcha**: A full-stack dating web application with real-time chat, geolocation-based matching, and notifications using **React**, **TypeScript**, **Node.js**, **Socket.io**, **MySQL**, and **Docker**.
+- **Camagru**: An Instagram-like web application for capturing, editing, and sharing photos with stickers and GIF creation using **JavaScript**, **Node.js**, **Express**, **MySQL**, and **Docker**.
 - **Real-time Bus Tracking System**: Developed a web application to monitor bus positions and routes using **HTML5**, **CSS3**, **JavaScript**, **Node.js**, and **MySQL**.
 - **Data Analysis Tools**: Built web applications to analyze transport data and generate HR questionnaires with **Python**, **Node.js**, and **RESTful APIs**.
 - **Automation & IoT**: Implemented a script using **PowerShell** and **MQTT** to automate depot operations for buses.
@@ -44,7 +50,7 @@ My diverse background equips me with a blend of technical expertise, management 
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/bastienerard/)
-- [Portfolio](https://github.com/BastienErard)
+- [Portfolio](https://www.bastienerard.dev/fr)
 
 ---
 
