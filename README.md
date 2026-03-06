@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I am a passionate **Web Developer** with a unique 
 ---
 
 ## 📝 About Me
-After years of success in real estate, I embraced the challenge of transitioning into the tech industry. This career shift reflects my dedication to continuous learning and my passion for innovation. At École 42 Lausanne, I developed strong programming skills and immersed myself in solving complex technical problems.
+After years of success in real estate, I transitioned into the tech industry and trained at École 42 Lausanne. I now work at the Cinémathèque suisse as a Digital Migration Operator, where I develop internal tools and manage large-scale audiovisual archiving workflows.
 
-My diverse background equips me with a blend of technical expertise, management abilities, and excellent communication skills. I thrive on autonomy and enjoy crafting creative solutions to tackle today’s technological challenges. I am always eager to learn, explore new technologies, and deliver impactful projects.
+My diverse background equips me with a blend of technical expertise, management abilities, and communication skills. I thrive on autonomy and enjoy crafting creative solutions to tackle today's technological challenges. I am always eager to learn, explore new technologies, and deliver impactful projects.
 
 ---
 
@@ -27,6 +27,7 @@ My diverse background equips me with a blend of technical expertise, management 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 ---
 
